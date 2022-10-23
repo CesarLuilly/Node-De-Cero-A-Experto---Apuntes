@@ -59,11 +59,24 @@ La sección se enfoca en los siguientes temas:
 
 https://github.com/cesarluilly/UDY-NODEJSCEROAEXPERTO-03-bases-node
 
-## Video 40
-## Video 41
-## Video 42
-## Video 43
-## Video 44
+# Seccion 5: Aplicacion de consola interactiva - Tareas por hacer
+## Video 42, 43, 44 Temas de esta sección
+
+El objetivo es que creemos una aplicación de consola interactiva, con opciones que se puedan seleccionar con las teclas direccionales, números y con la tecla espaciadora cuando hay multiples opciones.
+
+Puntualmente sería:
+
+* stdin
+* stdout
+* Ciclos
+* Inquirer
+* Clases en JavaScript
+* Archivos JSON
+* Fuertemente async y await
+* Transformaciones
+
+Esta es una aplicación real que les puede servir mucho cuando tengan que crear alguna aplicación de consola.
+
 ## Video 45
 ## Video 46
 ## Video 47
